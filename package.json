@@ -1,16 +1,16 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@finaswap/sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.91",
-  "description": "🛠 An SDK for building applications on top of SushiSwap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of FinaSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": "https://github.com/finaswap/finaswap-sdk",
   "keywords": [
-    "sushiswap",
+    "finaswap",
     "ethereum",
     "sdk"
   ],
