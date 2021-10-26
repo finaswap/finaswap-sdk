@@ -17,7 +17,7 @@ export const USDC_ADDRESS: AddressMap = {
 }
 
 export const FACTORY_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x53786c562146Bd864918e755F919711b0DE39C1E',
   [ChainId.ROPSTEN]: '0x53786c562146Bd864918e755F919711b0DE39C1E',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -48,7 +48,7 @@ export const FACTORY_ADDRESS: AddressMap = {
 }
 
 export const ROUTER_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0xF0948333601e1e7BCdcFfDFd555EF144d2E56EbC',
   [ChainId.RINKEBY]: '',
   [ChainId.ROPSTEN]: '0xF0948333601e1e7BCdcFfDFd555EF144d2E56EbC',
   [ChainId.GÖRLI]: '',
@@ -79,7 +79,7 @@ export const ROUTER_ADDRESS: AddressMap = {
 }
 
 export const FNA_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x214640AE606C18F15062d593C701BC8eF0CB00F7',
   [ChainId.ROPSTEN]: '0x214640AE606C18F15062d593C701BC8eF0CB00F7',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -101,7 +101,7 @@ export const FNA_ADDRESS: AddressMap = {
 }
 
 export const MASTERCHEF_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0xd1aF754733f0c205a6bb07Cd5Cd07B39184321f7',
   [ChainId.ROPSTEN]: '0xd1aF754733f0c205a6bb07Cd5Cd07B39184321f7',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -109,7 +109,7 @@ export const MASTERCHEF_ADDRESS: AddressMap = {
 }
 
 export const BAR_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0xABC423971B5A13e01F70CA50354f75A4Df97440a',
   [ChainId.ROPSTEN]: '0xABC423971B5A13e01F70CA50354f75A4Df97440a',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -117,7 +117,7 @@ export const BAR_ADDRESS: AddressMap = {
 }
 
 export const MAKER_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x92ad2e78553C9E7EF54b062105Ce0017eA31233d',
   [ChainId.ROPSTEN]: '0x92ad2e78553C9E7EF54b062105Ce0017eA31233d',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -214,8 +214,8 @@ export const BORING_HELPER_ADDRESS: AddressMap = {
 }
 
 export const STOP_LIMIT_ORDER_ADDRESS: AddressMap = {
-  [ChainId.KOVAN]: '',
-  [ChainId.MATIC]: ''
+  [ChainId.KOVAN]: '0xce9365dB1C99897f04B3923C03ba9a5f80E8DB87',
+  [ChainId.MATIC]: '0x1aDb3Bd86bb01797667eC382a0BC6A9854b4005f'
 }
 
 export const ARCHER_ROUTER_ADDRESS: AddressMap = {
