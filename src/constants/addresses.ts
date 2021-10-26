@@ -125,11 +125,11 @@ export const MAKER_ADDRESS: AddressMap = {
 }
 
 export const TIMELOCK_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: ''
+  [ChainId.MAINNET]: '0x9a8541Ddf3a932a9A922B607e9CF7301f1d47bD1'
 }
 
 export const BENTOBOX_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0xF5BCE5077908a1b7370B9ae04AdC565EBd643966',
   [ChainId.ROPSTEN]: '',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -146,7 +146,7 @@ export const BENTOBOX_ADDRESS: AddressMap = {
 }
 
 export const KASHI_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x2cBA6Ab6574646Badc84F0544d05059e57a5dc42',
   [ChainId.KOVAN]: '',
   [ChainId.MATIC]: '',
   [ChainId.XDAI]: '',
@@ -158,7 +158,7 @@ export const KASHI_ADDRESS: AddressMap = {
 }
 
 export const FINASWAP_SWAPPER_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x1766733112408b95239aD1951925567CB1203084',
   [ChainId.MATIC]: '',
   [ChainId.XDAI]: '',
   [ChainId.BSC]: '',
@@ -168,7 +168,7 @@ export const FINASWAP_SWAPPER_ADDRESS: AddressMap = {
 }
 
 export const FINASWAP_MULTISWAPPER_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x545820d5Cc05248da112419fEfb18522c63C8e12',
   [ChainId.KOVAN]: '',
   [ChainId.MATIC]: '',
   [ChainId.XDAI]: '',
@@ -178,7 +178,7 @@ export const FINASWAP_MULTISWAPPER_ADDRESS: AddressMap = {
 }
 
 export const FINASWAP_MULTI_EXACT_SWAPPER_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0xB527C5295c4Bc348cBb3a2E96B2494fD292075a7',
   [ChainId.KOVAN]: '',
   [ChainId.MATIC]: '',
   [ChainId.XDAI]: '',
@@ -219,14 +219,15 @@ export const STOP_LIMIT_ORDER_ADDRESS: AddressMap = {
 }
 
 export const ARCHER_ROUTER_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: ''
+  [ChainId.MAINNET]: '0x9917C083FF9FbD29Df1367FBF7F2388A9a202431'
 }
 
 export const MINICHEF_ADDRESS: AddressMap = {
-  [ChainId.MATIC]: '',
-  [ChainId.XDAI]: '',
-  [ChainId.HARMONY]: '',
-  [ChainId.ARBITRUM]: ''
+  [ChainId.MATIC]: '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
+  [ChainId.XDAI]: '0xdDCbf776dF3dE60163066A5ddDF2277cB445E0F3',
+  [ChainId.HARMONY]: '0x67dA5f2FfaDDfF067AB9d5F025F8810634d84287',
+  [ChainId.ARBITRUM]: '0xF4d73326C13a4Fc5FD7A064217e12780e9Bd62c3',
+  [ChainId.CELO]: '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
 }
 
 export const WETH9_ADDRESS: AddressMap = {
